@@ -1,6 +1,9 @@
 # Newslatter - Minha Primeira Landing Page
 Este projeto consiste na criação da minha primeira landing page, desenvolvida utilizando HTML e CSS puro. A página foi projetada para uma empresa fictícia chamada Newslatter, que possui foco em Marketing Digital.
 
+## Exibição do Projeto
+<img src="components/images/img-readme.gif" width="70%">
+
 ## Funcionalidades
 A landing page possui as seguintes funcionalidades:
 
